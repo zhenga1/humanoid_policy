@@ -5,4 +5,4 @@ The reward curve is:
 ![Reward Curve](reward_curve.png)
 
 And the walking demo video is:
-<iframe width="560" height="315" src="https://youtu.be/1TzFjT7Dn9g" frameborder="0" allowfullscreen></iframe>
+[▶️ Watch the demo video](https://youtu.be/1TzFjT7Dn9g)
